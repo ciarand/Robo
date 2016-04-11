@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 # RoboTask
 
 **Modern and simple PHP task runner** inspired by Grunt and Rake aimed to automate common tasks:
